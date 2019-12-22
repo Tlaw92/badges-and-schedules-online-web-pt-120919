@@ -1,7 +1,8 @@
 # Write your code here.
-#Edsger, Ada, Charles, Alan, Grace, Linus, and Matz
 
 
-badge_maker(name)
+people = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", and "Matz"]
 
-
+def badge_maker(name)
+   return "Hello, my name is #{name}"
+end
